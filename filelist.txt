@@ -1,0 +1,4 @@
+jpegTest.jpeg
+jpegTest2.png
+pngTest.png
+pngTest2.png
